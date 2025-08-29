@@ -15,7 +15,7 @@ authors = [
 ]
 
 urls = { 
-    "Homepage" = "https://github.com/brjathu/PHALP"
+    Homepage = "https://github.com/brjathu/PHALP"
 }
 
 dependencies = [
