@@ -14,9 +14,7 @@ authors = [
     { name = "Jathushan Rajasegaran", email = "jathushan@berkeley.edu" }
 ]
 
-urls = { 
-    Homepage = "https://github.com/brjathu/PHALP"
-}
+urls = { Homepage = "https://github.com/brjathu/PHALP" }
 
 dependencies = [
     "opencv-python",
