@@ -34,8 +34,8 @@ dependencies = [
     "pytube @ git+https://github.com/pytube/pytube.git",
     "pyopengl @ git+https://github.com/mmatl/pyopengl.git",
     "chumpy @ git+https://github.com/mattloper/chumpy",
-    "neural-renderer-pytorch @ git+https://github.com/acjlcv/NMR",
 ]
+# "neural-renderer-pytorch @ git+https://github.com/acjlcv/NMR",
 
 [project.optional-dependencies]
 all = [
